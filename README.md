@@ -76,9 +76,3 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/triilman25/triilman25/output/snake.svg" alt="Snake animation" />
-
-###
