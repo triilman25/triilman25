@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="triilman.gif" width="500px" align="center">
+</p>
 
 <!--
 **triilman25/triilman25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
