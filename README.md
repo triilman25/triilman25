@@ -15,7 +15,7 @@ Who knows me and my first <a href="https://github.com/Fattah25">GitHub</a> accou
 
 
 
-<a href="https://skillicons.dev"><img align="right" src="https://skillicons.dev/icons?i=python,pytorch,julia,fastapi,go,c,cpp,vim,linux,latex,git,nginx,postgres,php,arduino,blender,bash,raspberrypi,docker,redis,anaconda&perline=5"></a>
+<a href="https://skillicons.dev"><img align="right" src="https://skillicons.dev/icons?i=python,pytorch,julia,fastapi,go,c,cpp,vim,linux,latex,git,nginx,postgres,php,arduino,blender,bash,raspberrypi,docker,redis,anaconda&perline=6"></a>
 
 
 
