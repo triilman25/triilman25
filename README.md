@@ -1,6 +1,5 @@
-## Hi there 👋
 <p align="center">
-  <img src="triilman.gif" width="500px" align="center">
+  <img src="ilmanbg.png" width="800px" align="center">
 </p>
 
 <!--
