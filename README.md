@@ -8,7 +8,7 @@
 <br>
 
 <p align="justify"> 
-Who knows me and my first <a href="https://github.com/Fattah25">GitHub</a> account? I can confirm that my first account is still in use. This second account is used for my professional projects or more serious project, nothing more or less. To be honest, I have three remotes account, one of them is from different remote platform, feel free to check <a href="https://codeberg.org/Fattah25">here</a>.
+Who knows me and my first <a href="https://github.com/Fattah25">GitHub</a> account? I can confirm that my first account is still in use. This second account is used for my professional projects or more serious project, nothing more or less. To be honest, I have three remote accounts, one of them is from different remote platform, feel free to check <a href="https://codeberg.org/Fattah25">here</a>.
 </p>
 
 <br>
