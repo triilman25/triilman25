@@ -13,11 +13,25 @@ Who knows me and my first <a href="https://github.com/Fattah25">GitHub</a> accou
 
 <br>
 
-<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,julia,fastapi,go,c,cpp,vim,linux,latex,git,nginx,postgres,php,arduino,blender,bash,raspberrypi,docker,redis,anaconda&perline=10)](https://skillicons.dev)
 
-</div>
+<a href="https://skillicons.dev"><img align="right" src="https://skillicons.dev/icons?i=python,pytorch,julia,fastapi,go,c,cpp,vim,linux,latex,git,nginx,postgres,php,arduino,blender,bash,raspberrypi,docker,redis,anaconda&perline=5"></a>
+
+
+
+
+```odin
+package hello_world
+
+import "core:fmt"
+
+main :: proc() {
+  name := "Ilman"
+
+  fmt.printfln("hello world, %s is here!", name)
+}
+```
+
 
 [1]: https://github.com/Fattah25
 [2]: https://codeberg.org/Fattah25
