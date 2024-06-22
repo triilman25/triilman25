@@ -15,9 +15,7 @@ Who knows me and my first <a href="https://github.com/Fattah25">GitHub</a> accou
 
 
 
-<a href="https://skillicons.dev"><img align="right" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,julia,fastapi,go,c,cpp,vim,helix,linux,latex,git,nginx,postgres,php,arduino,blender,bash,raspberrypi,docker,redis,anaconda&perline=6"></a>
-
-
+<a href="https://skillicons.dev"><img align="right" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,julia,fastapi,go,c,cpp,vim,helix,linux,latex,git,nginx,postgres,php,arduino,blender,bash,raspberrypi,docker,redis,anaconda,codeberg,ros&perline=6"></a>
 
 
 ```odin
@@ -32,6 +30,7 @@ main :: proc() {
 }
 ```
 
+don't ask me about the front-end. I'm a little afraid to include it on my CV. I can do it but I don't want to do it as often. front-end for me is like doing ordinary things with extraordinary drive. who wants to spend time just to make a button look attractive in a day? I know we can use framework like tailwind or bootstrap but in industry the difference is too big (beyond expectations).
 
 [1]: https://github.com/Fattah25
 [2]: https://codeberg.org/Fattah25
