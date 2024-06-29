@@ -31,17 +31,10 @@ don't ask me about the front-end. I'm a little afraid to include it on my CV. I 
 [1]: https://github.com/Fattah25
 [2]: https://codeberg.org/Fattah25
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=triilman25" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=triilman25&layout=compact&langs_count=8&hide_progress=true&card_width=320" />
 </a>
 
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=0fd8117cad3847f9f9944dfdacd1e471)
-
-
-<script src="https://gist.github.com/triilman25/0fd8117cad3847f9f9944dfdacd1e471.js"></script>
 
 
 
