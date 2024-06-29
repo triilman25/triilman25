@@ -38,7 +38,13 @@ don't ask me about the front-end. I'm a little afraid to include it on my CV. I 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=triilman25&layout=compact&langs_count=8&hide_progress=true&card_width=320" />
 </a>
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=0fd8117cad3847f9f9944dfdacd1e471)
+
+
+<script src="https://gist.github.com/triilman25/0fd8117cad3847f9f9944dfdacd1e471.js"></script>
+
+
+
 <!--
 **triilman25/triilman25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
