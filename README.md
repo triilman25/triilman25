@@ -11,7 +11,7 @@ Who knows me and my first <a href="https://github.com/Fattah25">GitHub</a> accou
 
 
 
-<a href="https://skillicons.dev"><img align="right" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,julia,fastapi,go,c,cpp,vim,helix,linux,latex,git,nginx,postgres,php,arduino,blender,bash,raspberrypi,docker,redis,anaconda,codeberg,ros&perline=6"></a>
+<a href="https://skillicons.dev"><img align="right" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,julia,fastapi,go,c,cpp,vim,helix,linux,latex,git,nginx,postgres,php,arduino,blender,bash,raspberrypi,docker,redis,anaconda,codeberg,ros,odin&perline=6"></a>
 
 
 ```odin
@@ -31,6 +31,14 @@ don't ask me about the front-end. I'm a little afraid to include it on my CV. I 
 [1]: https://github.com/Fattah25
 [2]: https://codeberg.org/Fattah25
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=triilman25" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=triilman25&layout=compact&langs_count=8&hide_progress=true&card_width=320" />
+</a>
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 <!--
 **triilman25/triilman25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
