@@ -31,27 +31,10 @@ don't ask me about the front-end. I'm a little afraid to include it on my CV. I 
 [1]: https://github.com/Fattah25
 [2]: https://codeberg.org/Fattah25
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=triilman25&repo=Komparasi-Bahasa-Pemrograman-C-Dan-Odin" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=triilman25&layout=compact&langs_count=8&card_width=200" />
-</a>
+# Highlight Repositories
+|<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=triilman25&theme=one_dark_pro&show_owner=true&repo=Komparasi-Bahasa-Pemrograman-C-Dan-Odin" />|null|null|
+|---|---|---|
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=triilman25&theme=one_dark_pro&layout=compact&langs_count=8&hide_title=true&card_width=200" />
 
 
-
-
-<!--
-**triilman25/triilman25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
