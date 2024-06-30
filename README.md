@@ -32,8 +32,10 @@ don't ask me about the front-end. I'm a little afraid to include it on my CV. I 
 [2]: https://codeberg.org/Fattah25
 
 # Highlight Repositories
-|<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=triilman25&theme=one_dark_pro&show_owner=true&repo=Komparasi-Bahasa-Pemrograman-C-Dan-Odin" />|null|null|
-|---|---|---|
+|<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=triilman25&langs_count=5&description_lines_count=null&theme=one_dark_pro&show_owner=true&repo=Komparasi-Bahasa-Pemrograman-C-Dan-Odin" />||
+|---|---|
+
+# Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=triilman25&theme=one_dark_pro&layout=compact&langs_count=8&hide_title=true&card_width=200" />
 
