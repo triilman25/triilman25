@@ -31,8 +31,11 @@ don't ask me about the front-end. I'm a little afraid to include it on my CV. I 
 [1]: https://github.com/Fattah25
 [2]: https://codeberg.org/Fattah25
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=triilman25&layout=compact&langs_count=8&hide_progress=true&card_width=320" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=triilman25&repo=Komparasi-Bahasa-Pemrograman-C-Dan-Odin" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=triilman25&layout=compact&langs_count=8&card_width=200" />
 </a>
 
 
