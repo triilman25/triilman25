@@ -11,7 +11,7 @@ Who knows me and my first <a href="https://github.com/Fattah25">GitHub</a> accou
 
 
 
-<a href="https://trakteer.id/halfnerd/tip" title="🍹by me a cendol"><img align="right" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,julia,fastapi,go,c,cpp,vim,helix,linux,latex,git,nginx,postgres,php,arduino,blender,bash,raspberrypi,docker,redis,anaconda,codeberg,ros,odin,cmake,jax&perline=6"></a>
+<a href="https://trakteer.id/halfnerd/tip" title="🍹by me a cendol"><img align="right" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,julia,fastapi,go,c,cpp,vim,helix,linux,latex,git,nginx,postgres,php,arduino,blender,bash,raspberrypi,docker,redis,anaconda,codeberg,ros,odin,cmake,emacs,rider,clion,jax&perline=6"></a>
 
 
 ```odin
