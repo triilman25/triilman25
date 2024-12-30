@@ -1,6 +1,11 @@
 <p align="center">
   <img src="ilmanbg.png" width="800px" align="center">
 </p>
+<p align="center">
+
+  <img src="https://img.shields.io/hackernews/user-karma/triilman?style=for-the-badge&color=orange">
+
+</p>
 
 
 <p align="justify"> 
@@ -30,10 +35,6 @@ don't ask me about the front-end. I'm a little afraid to include it on my CV. I 
 
 [1]: https://github.com/Fattah25
 [2]: https://codeberg.org/Fattah25
-
-# Highlight Repositories
-|<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=triilman25&langs_count=5&description_lines_count=null&theme=one_dark_pro&show_owner=true&repo=Komparasi-Bahasa-Pemrograman-C-Dan-Odin" />||
-|---|---|
 
 # Stats
 
