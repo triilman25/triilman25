@@ -33,7 +33,7 @@ main :: proc() {
 }
 ```
 
-don't ask me about the front-end. I'm a little afraid to include it on my CV. I can do it but I don't want to do it as often as possible. front-end for me is like doing ordinary things with extraordinary drive. who wants to spend time just to make a button look attractive in a day?
+don't ask me about the front-end. I'm a little afraid to include it on my CV. I can do it but I don't want to do it as often as possible. front-end for me is like doing ordinary things with extraordinary drive. who wants to spend time just to make a button look attractive in a day!
 
 [1]: https://github.com/Fattah25
 [2]: https://codeberg.org/Fattah25
